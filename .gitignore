@@ -1,0 +1,19 @@
+# WhatsApp data & chat exports
+WhatsApp/
+**/WhatsApp/
+data/raw/WhatsApp/
+data/
+
+# Python & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE & system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
