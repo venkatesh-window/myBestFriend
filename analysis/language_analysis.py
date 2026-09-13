@@ -35,10 +35,6 @@ def detect_language(text):
     return "other"
 
 
-# -----------------------------
-# Analyze per person
-# -----------------------------
-
 stats = {}
 
 senders = set(
